@@ -87,6 +87,7 @@ cd backend
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+uvicorn api:app --host 0.0.0.0 --port 8000
 ```
 
 ### Frontend
@@ -103,6 +104,7 @@ npm run dev
 - Use laptop camera to scan face
 - System compares with cloud image
 - If matched, ESP32 starts motor
+- If not matched, Buzzer beeps
 
 ---
 
