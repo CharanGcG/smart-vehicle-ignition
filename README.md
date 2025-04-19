@@ -34,6 +34,13 @@ This project demonstrates the integration of AI-based face recognition, IoT, and
 - Buzzer module
 - Motor and battery
 - Jumper wires, Breadboard
+![Setup Image](/images/esp32.webp)
+![Setup Image](/images/relay%20module.jpg)
+![Setup Image](/images/Buzzer.jpeg)
+![Setup Image](/images/Motor%20with%20fan.jpg)
+![Setup Image](/images/Battery.jpg)
+![Setup Image](/images/Jumper%20wires.jpg)
+![Setup Image](/images/breadboard.png)
 
 **Connections**:
 - **Relay**:
@@ -145,7 +152,7 @@ smart-vehicle-ignition/
 │   ├── package.json
 │   └── vite.config.js
 ├── ESP32/
-│   └── esp32_relay_control.ino
+│   └── ESP32Code.ino
 └── README.md
 ```
 
