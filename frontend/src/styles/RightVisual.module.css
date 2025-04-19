@@ -1,0 +1,13 @@
+.visualContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.car {
+    width: 90%;
+    height: 90%;
+}
+

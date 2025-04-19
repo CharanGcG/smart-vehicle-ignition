@@ -1,0 +1,50 @@
+.footer {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    padding: 20px;
+    text-align: center;
+    font-size: 1rem;
+    position: relative;
+    margin-top: auto;
+}
+
+.line {
+    height: 2px;
+    background: #3b82f6;
+    width: 60%;
+    margin: 0 auto 10px auto;
+    border-radius: 10px;
+}
+
+.text, .tagline, .extra {
+    margin: 5px 0;
+    white-space: nowrap;
+}
+
+.tagline {
+    font-style: italic;
+    font-size: 1.1rem;
+}
+
+.extra {
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.button {
+    margin-top: 0.5rem;
+    padding: 0.4rem 1rem;
+    background-color: #ffffff10;
+    border: 1px solid #ffffff40;
+    color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.9rem;
+  }
+  
+  .button:hover {
+    background-color: #ffffff30;
+    border-color: #ffffff60;
+  }
+  

@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+.env
+service-account.json
+*.pyc
+*.pyo
+*.pyd
+temp_intruder.jpg
